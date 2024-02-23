@@ -112,3 +112,8 @@ h2 {
     height: 13px;
     left: -37px;
 }
+.data {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: none;
+    font-weight: 600;
+}
